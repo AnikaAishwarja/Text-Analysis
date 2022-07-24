@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Python**
 
+- 📈 I’m good at visualisation
+
 - 📫 How to reach me **anika.i.aishwarja@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1q77_AnFDxSJwr4Erpp1oVBtJBZ53O0Sw/view?usp=sharing](https://drive.google.com/file/d/1q77_AnFDxSJwr4Erpp1oVBtJBZ53O0Sw/view?usp=sharing)
