@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📈 I’m good at visualisation
+- 📈 I’m expert in visualisation (Tableau, PowerBI)
 
 - 📫 How to reach me **anika.i.aishwarja@gmail.com**
 
