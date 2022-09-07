@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anika Islam Aishwarja</h1>
-<h3 align="center">Aspiring data scientist from Sydney, Australia</h3>
+<h1 align="center">Hi, I'm Anika Islam Aishwarja</h1>
+<h3 align="center">Aspiring data analyst from Sydney, Australia</h3>
 
 - 🌱 I’m currently learning **Python**
 
