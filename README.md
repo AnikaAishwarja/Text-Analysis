@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anika.i.aishwarja@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q77_AnFDxSJwr4Erpp1oVBtJBZ53O0Sw/view?usp=sharing](https://drive.google.com/file/d/1q77_AnFDxSJwr4Erpp1oVBtJBZ53O0Sw/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YvsfTBzDZg9Wnn9uwaESzCCndYdU-c1n/view?usp=share_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
