@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anika Islam Aishwarja</h1>
 <h3 align="center">Aspiring data scientist from Sydney, Australia</h3>
 
-I'm a data scientist with a passion for turning raw data into actionable insights. I am currently pursuing a Master's degree in Data Science and Innovation from the University of Technology Sydney (UTS), with a focus on machine learning, data visualization, and big data engineering. <br>
+I'm a data scientist with a passion for turning raw data into actionable insights. I am currently pursuing a Master's degree in Data Science and Innovation from the University of Technology Sydney (UTS), with a focus on machine learning, data visualization, and big data engineering. </br>
 
 
 - 📈 I’m expert in visualisation (Tableau, PowerBI), SQL
