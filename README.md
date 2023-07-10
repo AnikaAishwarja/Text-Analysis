@@ -7,7 +7,7 @@ I'm a data scientist with a passion for turning raw data into actionable insight
 
 - 📫 How to reach me **anika.i.aishwarja@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pC5yw7dAiEFB02wDzA2BknRa6bv713lh/view?usp=sharing]
+- 📄 Know about my experience <a href="https://drive.google.com/file/d/1pC5yw7dAiEFB02wDzA2BknRa6bv713lh/view?usp=sharing" target="blank"> Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
